@@ -32,7 +32,7 @@ export default function Character({ characterData }) {
   //Determinamos la imagen del personaje
   const CharacterImageUrl = characterData.noData
     ? null
-    : "../../imagenes/" + hat + "-" + shield + "-" + weapon + ".png";
+    : "/InfoPersonRol/imagenes/" + hat + "-" + shield + "-" + weapon + ".png";
 
   //Renderizamos el componente
   return (
