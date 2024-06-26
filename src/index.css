@@ -67,7 +67,7 @@ span {
 }
 
 .character-container {
-	background-image: url(./../imagenes/countryside-background.png);
+	background-image: url("../dist/imagenes/countryside-background.png");
 	background-size: cover;
 	height: 214px;
     width: 100%;
