@@ -1,8 +1,7 @@
-# React + Vite
+# InfoPersonRol
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Descripcion
 
-Currently, two official plugins are available:
+Al ejecutar el contenido de este repositorio, se nos abrirá una pequeña información sobre las habilidades de un personaje de rol. Aparte de eso, tendremos también la opción de darle a "Cambiar" para poder ver las habilidades de otros personajes que irán apareciendo aleatoriamente tras pulsar el botón.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto ha sido realizado en React + Vite por Rubén Fernández.
